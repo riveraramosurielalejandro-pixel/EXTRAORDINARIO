@@ -5,7 +5,7 @@
 
 <body>
 
-<h1><img src="logo.png width=80 aling="middle">
+<h1><img src="logo3.jpg width=80 aling="middle">
 
 CECyT NO.3</h1>
 
