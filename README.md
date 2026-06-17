@@ -11,16 +11,10 @@ CECyT NO.3</h1>
   </html>
    <html>
   <head>
-  
   </head>
-
   <body>
-
 <h1><center>Menu</h1>
-
-
   <ul>
-    
 <li><a href="Rojo.html" target="Principal">Rojo</a>
 <li><a href="Amarillo.html" target="Principal">Rojo</a>
 <li><a href="Naranja.html" target="Principal">Rojo</a>
@@ -34,10 +28,7 @@ CECyT NO.3</h1>
 <html>
 <head>
 </head>
-
 <body>
-
 <marquee bgcolor="Skyblue"><h1>Uriel Alejandro Rivera Ramos</marquee></h1>
-
  </body>
  </html>
