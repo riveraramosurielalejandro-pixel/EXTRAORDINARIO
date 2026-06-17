@@ -2,12 +2,13 @@
 <head>
  </head>
 
-<body>
-<h1><img src="logo3.jpg" width=80 aling="middle">
+<frameset rows=200,250,*>
+   <h1><img src="logo3.jpg" width=80 aling="middle"></h1>
+   
 
 CECyT NO.3</h1>
 
-  </body>
+  </frameset>
   </html>
    <html>
   <head>
