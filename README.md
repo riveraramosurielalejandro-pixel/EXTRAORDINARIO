@@ -1,5 +1,10 @@
 <html>
-<frameset rowns=200,100,*>
-  <frame src="encabezado.">
+  <head>
+    <title>
+      WELCOME TO MI PAGE:)
+    </title>
+  </head>
+<frameset rowns=200>
+  <frame src="https://riveraramosurielalejandro-pixel.github.io/EXTRAORDINARIO/encabezado/">
 </frameset>
 </html>
