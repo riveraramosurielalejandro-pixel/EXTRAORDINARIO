@@ -1,8 +1,5 @@
 <html>
 <head>
-  
- <title>Encabezado</title>
-  
  </head>
 
 <body>
@@ -15,8 +12,6 @@ CECyT NO.3</h1>
    <html>
   <head>
   
-  <title>Menu</title>
-  
   </head>
 
   <body>
@@ -25,18 +20,19 @@ CECyT NO.3</h1>
 
 
   <ul>
+    
 <li><a href="Rojo.html" target="Principal">Rojo</a>
 <li><a href="Amarillo.html" target="Principal">Rojo</a>
 <li><a href="Naranja.html" target="Principal">Rojo</a>
 <li><a href="Rosa.html" target="Principal">Rojo</a>
 <li><a href="Verde.html" target="Principal">Rojo</a>
+  
   </ul>
 
 <br><br><br><br>
 <li><a href="http:www.marvel.com" target="Principal">pagina de marvel</a>
 <html>
 <head>
-<title>Datos</title>
 </head>
 
 <body>
