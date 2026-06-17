@@ -1,7 +1,7 @@
 <html>
 <head>
-
-<frameset><h1><img src="logo3.jpg" width=80 aling="middle">
+<frameset rows="100,200">
+   <h1><img src="logo3.jpg" width=80 aling="middle">
 
 CECyT NO.3</h1></frameset>
 </head>
@@ -10,7 +10,7 @@ CECyT NO.3</h1></frameset>
    <html>
   <head>
   </head>
-  <body>
+  <frameset cols="200,250">
 <h1><center>Menu</h1>
   <ul>
 <li><a href="Rojo.html" target="Principal">Rojo</a>
@@ -23,10 +23,10 @@ CECyT NO.3</h1></frameset>
 
 <br><br><br><br>
 <li><a href="http:www.marvel.com" target="Principal">pagina de marvel</a>
-<html>
+</frameset>
 <head>
 </head>
-<body>
+<frameset rows="100,200">
 <marquee bgcolor="Skyblue"><h1>Uriel Alejandro Rivera Ramos</marquee></h1>
- </body>
+ </frameset>
  </html>
