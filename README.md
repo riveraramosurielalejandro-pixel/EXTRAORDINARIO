@@ -1,14 +1,10 @@
 <html>
 <head>
- </head>
-
 <frameset rows=200,250,*>
-   <h1><img src="logo3.jpg" width=80 aling="middle"></h1>
-   
-
-CECyT NO.3</h1>
-
-  </frameset>
+   <h1><img src="logo3.jpg" width=80 aling="middle"</h1>
+    CECyT NO.3
+</frameset>
+  </head>
   </html>
    <html>
   <head>
