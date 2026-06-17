@@ -30,3 +30,14 @@ CECyT NO.3</h1>
 
 <br><br><br><br>
 <li><a href="http:www.marvel.com" target="Principal">pagina de marvel</a>
+<html>
+<head>
+<title>Datos</title>
+</head>
+
+<body>
+
+<marquee bgcolor="Skyblue"><h1>Uriel Alejandro Rivera Ramos</marquee></h1>
+
+</body>
+</html>
